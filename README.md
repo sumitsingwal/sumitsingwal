@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi, I'm Sumit 👋
 
+📫 How to reach me: https://www.linkedin.com/in/sumitsingwal/
 <!--
 **sumitsingwal/sumitsingwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
