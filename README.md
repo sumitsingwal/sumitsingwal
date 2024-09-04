@@ -1,5 +1,7 @@
 ## Hi, I'm Sumit 👋
 
+- 🤔 I’m looking for a new opportunity in the data engineering field
+- 🌱 I’m currently learning more about AWS
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sumitsingwal/">LinkedIn</a>
 <!--
 **sumitsingwal/sumitsingwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
