@@ -25,23 +25,6 @@ I'm a passionate **Data Engineer** with expertise in building scalable data pipe
 
 ## 💼 Featured Projects
 
-### 🎬 [TMDB Airflow Data Engineering Pipeline](https://github.com/sumitsingwal/TMDB-airflow-data-engineering-project)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
-End-to-end data pipeline extracting movie data from TMDB API, transforming with Python, orchestrating via Apache Airflow on AWS EC2, and loading to S3 for analytics.
-
-**Tech Stack:** Python • Apache Airflow • AWS EC2 • AWS S3 • TMDB API • Pandas
-
-**Key Features:**
-- Automated data extraction from TMDB API
-- Scalable data transformation pipeline
-- Cloud deployment on AWS infrastructure
-- Scheduled workflow orchestration
-
----
-
 ### 🏠 [Databricks Lakehouse E2E](https://github.com/sumitsingwal/databricks-lakehouse-e2e)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
@@ -73,6 +56,23 @@ NLP-powered tool that extracts text from PDFs, performs sentiment analysis using
 - Sentiment classification (5 categories)
 - Visual sentiment mapping with color-coded highlights
 - Batch processing capabilities
+
+---
+
+### 🎬 [TMDB Airflow Data Engineering Pipeline](https://github.com/sumitsingwal/TMDB-airflow-data-engineering-project)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+End-to-end data pipeline extracting movie data from TMDB API, transforming with Python, orchestrating via Apache Airflow on AWS EC2, and loading to S3 for analytics.
+
+**Tech Stack:** Python • Apache Airflow • AWS EC2 • AWS S3 • TMDB API • Pandas
+
+**Key Features:**
+- Automated data extraction from TMDB API
+- Scalable data transformation pipeline
+- Cloud deployment on AWS infrastructure
+- Scheduled workflow orchestration
 
 ---
 
@@ -119,19 +119,6 @@ Collection of optimized solutions to LeetCode problems with detailed explanation
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitsingwal&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsingwal&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumitsingwal&theme=radical)
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
@@ -139,8 +126,8 @@ Collection of optimized solutions to LeetCode problems with detailed explanation
 current_focus = {
     "learning": ["AWS Services", "Databricks Advanced Features", "Streaming Pipelines"],
     "building": ["Scalable ETL Pipelines", "Data Quality Frameworks", "Real-time Analytics"],
-    "exploring": ["Apache Kafka", "Snowflake", "Terraform for IaC"],
-    "goals": ["AWS Certified Data Engineer", "Contribute to Open Source"]
+    "exploring": ["Apache Kafka", "Snowflake"],
+    "goals": ["AWS Certified Data Engineer"]
 }
 ```
 
@@ -148,7 +135,6 @@ current_focus = {
 
 ## 📈 Experience Highlights
 
-- 🔧 Built production-grade data pipelines processing TB-scale data
 - ☁️ Deployed cloud-native solutions on AWS infrastructure
 - 🎯 Implemented data quality and governance frameworks
 - 📊 Designed and optimized data lakehouse architectures
@@ -169,13 +155,3 @@ I'm always interested in discussing data engineering, cloud technologies, and po
 </div>
 
 ---
-
-<div align="center">
-
-### 💡 "Data is the new oil, but insights are the refined fuel that drives innovation."
-
-![Profile Views](https://komarev.com/ghpvc/?username=sumitsingwal&color=blueviolet&style=for-the-badge)
-
-⭐️ From [sumitsingwal](https://github.com/sumitsingwal)
-
-</div>
